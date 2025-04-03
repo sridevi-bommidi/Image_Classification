@@ -56,7 +56,6 @@ This project focuses on building a robust image classification pipeline to detec
 
 ## 👤 Author
 **Sridevi Bommidi**  
-MS in Data Science | AI for Healthcare Enthusiast  
-[LinkedIn](#) | [Portfolio](#) | [Email](#)
+MS in Applied Computer Science    
 
 ---
